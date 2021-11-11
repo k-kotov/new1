@@ -1,5 +1,5 @@
 
-resource "null_resource" "tetst" {
+resource "null_resource" "test" {
  
 }
 
